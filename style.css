@@ -177,7 +177,11 @@
               width: 100%;
               padding: 10px;
               border: none;
-              border-radius: 3px;
+              color: whitesmoke;
+              background-color: #0d3557;
+              border-width: 0.5px;
+              border-bottom: solid;
+              font-size: 13pt;
         }
         .form1 textarea{
             height: 100px;
