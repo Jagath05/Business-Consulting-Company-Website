@@ -85,6 +85,13 @@
             display: inline-flexbox;
             margin-top: 120px;
         }
+        .menu1{
+            color: whitesmoke;
+            font-size: 14pt;
+        }
+        .menu1 a:hover{
+            color: #0d33de;
+                }
         .b3{
             height:45px;
             width: 150px;
